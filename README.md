@@ -22,7 +22,7 @@
 
 - Elastic Search?? -> 처음에는 mongodb 자체에서 검색할 방법을 고민했는데 몽고디비는 한글에 적합한 n-gram 인덱싱을 지원하지 않았다. 반면 엘라스틱서치는 n-gram 뿐 아니라 nori라는 한국어 전용 형태소 분석기를 지원하는 nosql 기반 검색엔진으로, 몽고디비와 마찬가지로 집계 함수를 지원하여 속도가 매우 빠르다는 장점이 있어서 사용했다.
 
-![image](https://user-images.githubusercontent.com/97672187/178143110-60ae151d-ffce-4135-9113-df504929d519.png){: .align-center}
+![image](https://user-images.githubusercontent.com/97672187/178143110-60ae151d-ffce-4135-9113-df504929d519.png)
 
 ## 데이터 설명
 1) 서비스에 사용한 데이터(네이버 뉴스 - 정치 일반)
@@ -41,7 +41,7 @@
 
 - KoBERT and KoELECTRA
 
-![image](https://user-images.githubusercontent.com/97672187/178143684-c8a11c00-f971-44ca-95a3-d5d710ca2407.png){: .align-center}
+![image](https://user-images.githubusercontent.com/97672187/178143684-c8a11c00-f971-44ca-95a3-d5d710ca2407.png)
 
 네이버 영화 리뷰 데이터 + AI-Hub 일상 대화 감성 데이터: train dataset 약 20만건 / test dataset 약 6만건
 
@@ -100,7 +100,7 @@ https://drive.google.com/file/d/1sdXnhVvOw64xWgfSD0cOFW8SlSxsZpxk/view?usp=shari
 
 ## 개발환경
 
-![image](https://user-images.githubusercontent.com/97672187/178144400-c4f63f9f-cbd1-4140-bd98-b19486267a33.png){: .align-center}
+![image](https://user-images.githubusercontent.com/97672187/178144400-c4f63f9f-cbd1-4140-bd98-b19486267a33.png)
 
 
 
