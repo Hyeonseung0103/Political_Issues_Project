@@ -71,7 +71,7 @@ AI-Hub 문서요약 텍스트: tranin dataset 약 30만건 / test datset 약 3�
 
 -> 따라서 최종적으로 KoELECTRA 모델을 뉴스 타이틀 및 댓글의 감성분석 모델로 사용했다.
 
-3) KoBART
+3) **KoBART**
 
 - BERT의 인코더와 GPT의 디코더 부분을 결합한 Transformers인 BART를 한국어로 특화시킨 모델
 
@@ -101,7 +101,5 @@ https://drive.google.com/file/d/1sdXnhVvOw64xWgfSD0cOFW8SlSxsZpxk/view?usp=shari
 ## 개발환경
 
 ![image](https://user-images.githubusercontent.com/97672187/178144400-c4f63f9f-cbd1-4140-bd98-b19486267a33.png)
-
-
 
 
