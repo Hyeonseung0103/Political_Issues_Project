@@ -83,7 +83,7 @@ AI-Hub 문서요약 텍스트: tranin dataset 약 30만건 / test datset 약 3�
 
 ## 시연영상
 
-https://drive.google.com/file/d/1sdXnhVvOw64xWgfSD0cOFW8SlSxsZpxk/view?usp=sharing
+[https://drive.google.com/file/d/1sdXnhVvOw64xWgfSD0cOFW8SlSxsZpxk/view?usp=sharing](https://drive.google.com/file/d/1HuZTil5fKnk5nqwfpHlzRhtSRQEkLIx2/view?usp=sharing)
 
 ## 한계점 및 해결방안
 - 기존 계획에는 네이버를 포함한 여러 커뮤니티 데이터 그리고 정치 키워드 외에도 여러 키워드를 사용하고자 했으나 DB에 데이터를 적재하는 시간과 서버 비용으로 인하여 네이버 뉴스 정치 섹션 데이터만 사용하게 되었다.
