@@ -1,7 +1,7 @@
 # 키워드로 알아보는 정치 이슈 분석
 약 2주동안 진행된 프로젝트에서 문서 요약 모델인 KoBART 모델 개발 및 모델 배포(with Flask), 데이터 전처리, Mongo DB에 적재, 프레젠테이션의 역할을 수행했다.
 
-[프로젝트 내용 설명 영상](https://drive.google.com/file/d/1T2-06W8T-AxEqRVhVl69Ib5E4vkwHfyK/view?usp=sharing)
+[프로젝트 내용 설명 영상](https://drive.google.com/file/d/13q-2o8an19rO_ubByiH0TUJkpsyLO0IN/view?usp=sharing)
 
 ## 프로젝트 개요 및 필요성
 
